@@ -1,12 +1,17 @@
-# Code Challenge 00 - Abbreviate a Two-Word Name
+#Code Challenge 01 - Replacing dots with dashes
 
-##Problem Domain/Description:
-Write a function to convert a name into initials. This kata strictly takes two words with one space in between them.
+##Problem Domain:
+The code provided is supposed replace all the dots . in the specified String str with dashes -
 
-The output should be two capital letters with a dot seperating them.
 
-##Link to Code Wars Challenge:
-https://www.codewars.com/kata/abbreviate-a-two-word-name/train/javascript
+##Link to the Challenge on Code Wars:
+https://www.codewars.com/kata/fixme-replace-all-dots/train/javascript
 
-##Problem Solving Process:
-Find a method that turns a string into an array, then concatenate the first letter of each array element with a period in between. Also convert all returned letters to upper case.
+##Process for solving:
+- Look up the way to replace elements in a string
+- Troubleshoot why the "buggy" solution starter code isn't working
+- Fix the starter code
+- Profit!
+
+##Note:
+- There is no pseudocode for this assignment due to its simplicity - 2 characters needed to be added

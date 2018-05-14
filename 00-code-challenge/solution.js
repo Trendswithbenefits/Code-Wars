@@ -1,6 +1,5 @@
-// Code Challenge 01 - abbreviating a two-word name
+var replaceDots = function(str) {
+  return str.replace(/\./g, '-');
+};
 
-function abbrevName(name){
-  let initials = name.split(' ');
-  return initials[0].charAt(0).toUpperCase() + '.' + initials[1].charAt(0).toUpperCase();
-}
+//An escape character and the global "g" switch are needed
