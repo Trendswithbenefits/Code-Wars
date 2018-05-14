@@ -14,5 +14,4 @@ https://www.codewars.com/kata/fixme-replace-all-dots/train/javascript
 - Profit!
 
 ##Note:
-- There is no pseudocode for this assignment due to its simplicity
-
+- There is no pseudocode for this assignment due to its simplicity - 2 characters needed to be added
